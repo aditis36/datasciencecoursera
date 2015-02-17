@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a repo for my Coursera class.
+This is a great repo for my Coursera class.
